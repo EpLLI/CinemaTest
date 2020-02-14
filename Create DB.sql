@@ -6,3 +6,5 @@ CREATE DATABASE "Cinema"
     LC_CTYPE = 'Belarusian_Belarus.1251'
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1;
+
+

@@ -11,9 +11,12 @@ WITH (
     OIDS = FALSE
 )
 TABLESPACE pg_default;
+  
+
 
 ALTER TABLE public.director
     OWNER to postgres;
+
 
 CREATE TABLE public.film
 (
